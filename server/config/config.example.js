@@ -1,0 +1,1 @@
+export const MONGO_URI = 'enter mlab URI here';
